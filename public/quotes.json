@@ -1,0 +1,263 @@
+{
+    "quotes": [
+        {
+            "quote": "It is far better to be alone, than to be in bad company.",
+            "author": "George Washington",
+            "genre": "Lonely",
+            "colour": "#808080",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "Truth will ultimately prevail where there is pains to bring it to light.",
+            "author": "George Washington",
+            "genre": "Truth",
+            "colour": "#0446fd",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "Guard against the impostures of pretended patriotism.",
+            "author": "George Washington",
+            "genre": "Patriotism",
+            "colour": "#0446fd",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.",
+            "author": "George Washington",
+            "genre": "Hope",
+            "colour": "#c7a717",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "Worry is the interest paid by those who borrow trouble.",
+            "author": "George Washington",
+            "genre": "Trouble",
+            "colour": "#ffa500",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "Happiness and moral duty are inseparably connected.",
+            "author": "George Washington",
+            "genre": "Happiness",
+            "colour": "#c7a717",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "Let your Discourse with Men of Business be Short and Comprehensive.",
+            "author": "George Washington",
+            "genre": "Business",
+            "colour": "#f00",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "Experience teaches us that it is much easier to prevent an enemy from posting themselves than it is to dislodge them after they have got possession.",
+            "author": "George Washington",
+            "genre": "Experience",
+            "colour": "#ffa500",
+            "authId": "GeorgeWashington"
+        },
+        {
+            "quote": "The strongest man in the world is he who stands most alone.",
+            "author": "Henrik Ibsen",
+            "genre": "Lonely",
+            "colour": "#808080" ,
+            "authId": "HenrikIbsen"
+        },
+        {
+            "quote": "The spectacles of experience; through them you will see clearly a second time.",
+            "author": "Henrik Ibsen",
+            "genre": "Experience",
+            "colour": "#ffa500" ,
+            "authId": "HenrikIbsen"
+        },
+        {
+            "quote": "Home life ceases to be free and beautiful as soon as it is founded on borrowing and debt.",
+            "author": "Henrik Ibsen",
+            "genre": "Life",
+            "colour": "#e72e2e" ,
+            "authId": "HenrikIbsen"
+        },
+        {
+            "quote": "The man whom God wills to slay in the struggle of life - he first individualizes.",
+            "author": "Henrik Ibsen",
+            "genre": "Life",
+            "colour": "#e72e2e" ,
+            "authId": "HenrikIbsen"
+        },
+        {
+            "quote": "A forest bird never wants a cage.",
+            "author": "Henrik Ibsen",
+            "genre": "Nature",
+            "colour": "#15491d" ,
+            "authId": "HenrikIbsen"
+        },
+        {
+            "quote": "The time you feel lonely is the time you most need to be by yourself.",
+            "author": "Douglas Coupland", 
+            "genre": "Lonely",
+            "colour": "#808080",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "If a building looks better under construction than it does when finished, then it's a failure.",
+            "author": "Douglas Coupland", 
+            "genre": "Failure",
+            "colour": "#0446fd",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "You can't get mad at weather because weather's not about you. Apply that lesson to most other aspects of life.",
+            "author": "Douglas Coupland", 
+            "genre": "Life",
+            "colour": "#e72e2e",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "Sometimes it feels as if everything in life is just something we haul into the grave.",
+            "author": "Douglas Coupland", 
+            "genre": "Life",
+            "colour": "#e72e2e",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "High school is such a shared experience in North American culture.",
+            "author": "Douglas Coupland", 
+            "genre": "Experience",
+            "colour": "#ffa500",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "I love working out how things are made, which is why I have so many models of towers.",
+            "author": "Douglas Coupland", 
+            "genre": "Love",
+            "colour": "#fd3b5b",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "My father has never once asked me a question, any question. There's a freedom that came from that. It allowed me to create my own way of thinking.",
+            "author": "Douglas Coupland", 
+            "genre": "Freedom",
+            "colour": "#c7a717",
+            "authId": "DouglasCoupland"
+        },
+        {
+            "quote": "Alone we can do so little; together we can do so much.",
+            "author": "Helen Keller", 
+            "genre": "Lonely",
+            "colour": "#808080",
+            "authId": "HelenKeller"
+        },
+        {
+            "quote": "Your attitude, not your aptitude, will determine your altitude.",
+            "author": "Zig Ziglar", 
+            "genre": "Attitude",
+            "colour": "#ffa500",
+            "authId": "ZigZiglar"
+        },
+        {
+            "quote": "What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.", 
+            "author": "Helen Keller",
+            "genre": "Love",
+            "colour": "#fd3b5b",
+            "authId": "HelenKeller"
+        },
+        {
+            "quote": "Patriotism is supporting your country all the time, and your government when it deserves it.", 
+            "author": "Mark Twain",
+            "genre": "Patriotism",
+            "colour": "#0446fd",
+            "authId": "MarkTwain"
+        },
+        {
+            "quote": "Don't go around saying the world owes you a living. The world owes you nothing. It was here first.", 
+            "author": "Mark Twain",
+            "genre": "Life",
+            "colour": "#e72e2e",
+            "authId": "MarkTwain"
+        },
+        {
+            "quote": "If people like you, they'll listen to you, but if they trust you, they'll do business with you.", 
+            "author": "Zig Ziglar",
+            "genre": "Business",
+            "colour": "#f00",
+            "authId": "ZigZiglar"
+        },
+        {
+            "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.", 
+            "author": "Mark Twain",
+            "genre": "Business",
+            "colour": "#f00",
+            "authId": "MarkTwain"
+        },
+        {
+            "quote": "A brand for a company is like a reputation for a person. You earn reputation by trying to do hard things well.", 
+            "author": "Jeff Bezos",
+            "genre": "Business",
+            "colour": "#f00",
+            "authId": "JeffBezos"
+        },
+        {
+            "quote": "Life's too short to hang out with people who aren't resourceful.", 
+            "author": "Jeff Bezos",
+            "genre": "Life",
+            "colour": "#e72e2e",
+            "authId": "JeffBezos"
+        },
+        {
+            "quote": "If you do build a great experience, customers tell each other about that. Word of mouth is very powerful.", 
+            "author": "Jeff Bezos",
+            "genre": "Experience",
+            "colour": "#ffa500",
+            "authId": "JeffBezos"
+        },
+        {
+            "quote": "If you're competitor-focused, you have to wait until there is a competitor doing something. Being customer-focused allows you to be more pioneering.", 
+            "author": "Jeff Bezos",
+            "genre": "Being",
+            "colour": "#e72e2e",
+            "authId": "JeffBezos"
+        },
+        {
+            "quote": "There are two kinds of companies, those that work to try to charge more and those that work to charge less. We will be the second.", 
+            "author": "Jeff Bezos",
+            "genre": "Business",
+            "colour": "#f00",
+            "authId": "JeffBezos"
+        },
+        {
+            "quote": "If you're trying to create a company, it's like baking a cake. You have to have all the ingredients in the right proportion.", 
+            "author": "Elon Musk",
+            "genre": "Business",
+            "colour": "#f00",
+            "authId": "ElonMusk"
+        },
+        {
+            "quote": "I do love email. Wherever possible I try to communicate asynchronously. I'm really good at email.", 
+            "author": "Elon Musk",
+            "genre": "Communication",
+            "colour": "#87ceeb",
+            "authId": "ElonMusk"
+        },
+        {
+            "quote": "If you learn from defeat, you haven't really lost.", 
+            "author": "Zig Ziglar",
+            "genre": "Communication",
+            "colour": "#87ceeb",
+            "authId": "ZigZiglar"
+        },
+        { 
+            "quote": "If you think back to the beginning of cell phones, laptops or really any new technology, it's always expensive.",
+            "author": "Elon Musk",
+            "genre": "Technology",
+            "colour": "#15491d",
+            "authId": "ElonMusk"
+        },
+        { 
+            "quote": "Everything has its wonders, even darkness and silence, and I learn, whatever state I may be in, therein to be content.",
+            "author": "Helen Keller",
+            "genre": "Happiness",
+            "colour": "#c7a717",
+            "authId": "HelenKeller"
+        }
+    ]
+}
